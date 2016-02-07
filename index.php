@@ -1,3 +1,4 @@
 <?php
-echo "this is a test which fix the master branch 3";
+echo "this is a test which fix the master branch 6";
+echo "test stash";
 ?>
