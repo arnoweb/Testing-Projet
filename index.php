@@ -4,4 +4,6 @@ echo "un stash n'est pas commité";
 echo "ceci vient de la branche develop";
 echo "ceci est un travail en attente";
 echo "ceci est un travail en attente 2";
+echo "ceci est un travail en attente 3";
+echo "ceci est un travail en attente 4";
 ?>
