@@ -1,3 +1,3 @@
 <?php
-echo "test bbbb zzzzz bbbb ccc";
+echo "test bbbb zzzzz bbbb ccc fff";
 ?>
